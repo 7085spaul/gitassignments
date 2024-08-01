@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><center>interstellar</center></h1> 
+
+    <center><a href="https://en.wikipedia.org/wiki/Interstellar_(film)" target="_blank">
+    <img src="./interstellar.jpg.jpg"width="80px"></a></center>
+
+    <h1><center>queen of spain</center></h1>
+    <center><a href="https://en.wikipedia.org/wiki/Queen_Letizia_of_Spain" target="_blank">
+    <img src="./queen of spain. jpg.jpg" alt="Queen of Spain" width="80px"></a></center>
+     
+    <h1><center>rain in espana</center></h1>
+    <center><a href="https://en.wikipedia.org/wiki/The_Rain_In_Espana" target="_blank" > 
+    <img src="./rain.jpg.jpg"width="80px"></a></center>
+        
+</body>
+</html>

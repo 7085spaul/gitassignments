@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>titles</title>
+</head>
+<body>
+    <h3><center>bollywood</center></h3>
+        <img src= "../bollywood.jpg"alt:"bollywood image" width="100px"> 
+        <h3><a href="https://en.wikipedia.org/wiki/Lists_of_Hindi_films" target="_blank">know more about bollywood</a><br> 
+            <button>
+                <a href="../tollywood.jpg" download>download</a> 
+            </button> 
+</body>
+</html>
