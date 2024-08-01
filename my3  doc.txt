@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mythri</title>
+</head>
+<body>
+    <center>
+        <h1>Mythri</h1>
+        <img src="file:///C:/Users/Admin/Pictures/1721228454838.jpg" alt="Mythri" width="150">
+    </center>
+    <hr>
+    <h2><b>Mythri is a talented and unique individual</b> - <strong>She is highly respected for her nature and accomplishments</strong>.</h2>
+    <p><i>Mythri's academic and professional journey</i> - Her achievements are <em>acclaimed for their excellence and dedication</em>.</p>
+    <p><mark>Her accolades include numerous awards and recognitions</mark> - She has a dedicated following and admiration from peers.</p>
+    <p><small>Born with a passion for learning and innovation</small> - Mythri started her career with a strong foundation in electrical engineering.</p>
+    <p><del>Earlier phases included various internships</del> - She gained significant attention with her contributions in AI and ML.</p>
+    <p><ins>Recent updates include her latest projects and pursuits</ins> - She continues to impress with her diverse skill set and commitment.</p>
+    <p><sub>References to her work</sub> - Check out her portfolio for more details.</p>
+    <p><sup>Annotations</sup> - Further information can be found on her official profiles and LinkedIn.</p>
+    <hr>
+    <h2>Lifestyle</h2>
+    <p><b>Professional Journey</b> - Mythri started with electrical engineering and transitioned to becoming a standout in AI and machine learning.</p>
+    <p><i>Style and Presence</i> - She is known for her graceful and respectful demeanor and is often referred to as a trendsetter among her peers.</p>
+</body>
+</html>

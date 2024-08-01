@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shahid Kapoor</title>
+</head>
+<body>
+    <center>
+        <h1>Shahid Kapoor</h1>
+        <img src="file:///C:/Users/Admin/Downloads/Shahid%20Kapoor%20teams%20up%20with%20Shraddha%20Kapoor.jfif" alt="Shahid Kapoor" width="150">
+    </center>
+    <hr>
+    <h2><b>Shahid Kapoor is a renowned actor</b> - <strong>He gained fame for his roles in Bollywood cinema</strong>.</h2>
+    <p><i>Shahid Kapoor's acting career</i> - His performances are <em>acclaimed for their versatility and energy</em>.</p>
+    <p><mark>His achievements include numerous awards</mark> - He has a dedicated fan base worldwide.</p>
+    <p><small>Born in 1981, Shahid Kapoor is an Indian actor</small> - He started his career with the film "Ishq Vishk".</p>
+    <p><del>Previous roles included various supporting roles</del> - He gained mainstream attention with the film "Jab We Met".</p>
+    <p><ins>Recent updates include his latest blockbuster films</ins> - He continues to impress with diverse roles.</p>
+    <p><sub>References to his work</sub> - Check out his filmography for more details.</p>
+    <p><sup>Annotations</sup> - Further information can be found on his official website.</p>
+    <hr>
+    <h2>Lifestyle</h2>
+    <p><b>Acting Career</b> - Shahid Kapoor started in Bollywood cinema and transitioned to becoming a superstar with several blockbuster hits.</p>
+    <p><i>Fashion</i> - He is known for his stylish appearances and is often referred to as a trendsetter in the industry.</p>
+</body>
+</html>

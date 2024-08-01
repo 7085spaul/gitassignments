@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Allu Arjun</title>
+</head>
+<body>
+    <center>
+        <h1>Allu Arjun</h1>
+        <img src="file:///C:/Users/Admin/Downloads/%23allu%20arjun%20south%20indian%20stylish%20actor.jfif" alt="Allu Arjun" width="150">
+    </center>
+    <hr>
+    <h2><b>Allu Arjun is a renowned actor</b> - <strong>He gained fame for his roles in Telugu cinema</strong>.</h2>
+    <p><i>Allu Arjun's acting career</i> - His performances are <em>acclaimed for their versatility and energy</em>.</p>
+    <p><mark>His achievements include numerous awards</mark> - He has a dedicated fan base worldwide.</p>
+    <p><small>Born in 1983, Allu Arjun is an Indian actor</small> - He started his career with the film "Gangotri".</p>
+    <p><del>Previous roles included various supporting roles</del> - He gained mainstream attention with the film "Arya".</p>
+    <p><ins>Recent updates include his latest blockbuster films</ins> - He continues to impress with diverse roles.</p>
+    <p><sub>References to his work</sub> - Check out his filmography for more details.</p>
+    <p><sup>Annotations</sup> - Further information can be found on his official website.</p>
+    <hr>
+    <h2>Lifestyle</h2>
+    <p><b>Acting Career</b> - Allu Arjun started in Telugu cinema and transitioned to becoming a superstar with several blockbuster hits.</p>
+    <p><i>Fashion</i> - He is known for his stylish appearances and is often referred to as the "Stylish Star" in the industry.</p>
+</body>
+</html>

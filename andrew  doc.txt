@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Andrew Garfield</title>
+</head>
+<body>
+    <center>
+        <h1>Andrew Garfield</h1>
+        <img src="file:///C:/Users/Admin/Downloads/Hottest%20Spiderman%20🔥🕸%EF%B8%8F.jfif" alt="Andrew Garfield" width="150">
+    </center>
+    <hr>
+    <h2><b>Andrew Garfield is a renowned actor</b> - <strong>He gained fame for his role as Spider-Man</strong>.</h2>
+    <p><i>Andrew Garfield's acting career</i> - His performances are <em>acclaimed in both film and theater</em>.</p>
+    <p><mark>His achievements include numerous awards</mark> - He has a dedicated fan base worldwide.</p>
+    <p><small>Born in 1983, Andrew Garfield is a British-American actor</small> - He started his career with theater performances.</p>
+    <p><del>Previous roles included in various indie films</del> - He gained mainstream attention with The Amazing Spider-Man series.</p>
+    <p><ins>Recent updates include his latest films</ins> - He continues to impress with diverse roles.</p>
+    <p><sub>References to his work</sub> - Check out his filmography for more details.</p>
+    <p><sup>Annotations</sup> - Further information can be found on his official website.</p>
+    <hr>
+    <h2>Lifestyle</h2>
+    <p><b>Acting Career</b> - Andrew Garfield started in theater and transitioned to successful film roles.</p>
+    <p><i>Fashion</i> - He is known for his stylish appearances on red carpets and collaborations with fashion brands.</p>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nandagiri Mythri's Resume</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Nandagiri Mythri</h1>
+    <p style="text-align: center;">
+        Hyderabad, Telangana, India<br>
+        Hyderabad<br>
+        9398283392<br>
+        madhunanda13579@gmail.com
+    </p>
+
+    <h3>Work Experience</h3>
+    <hr>
+    <p>Acemgrade Company</p>
+    <p>Artificial Intelligence and Machine Learning</p>
+
+    <h3>Education</h3>
+    <hr>
+    <p>TSRS Residential School, Thatipally, Telangana</p>
+
+    <h3>Achievements/Awards</h3>
+    <hr>
+    <p>Eco Champion Hackathon Finalist<br>
+       AIML Certified</p>
+
+    <h3>Skills</h3>
+    <hr>
+    <p>Critical Thinking<br>
+       Logical Thinking</p>
+</body>
+</html>

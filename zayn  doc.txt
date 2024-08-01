@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Zayn Malik</title>
+</head>
+<body>
+    <center>
+        <h1>Zayn Malik</h1>
+        <img src="file:///C:/Users/Admin/Downloads/download%20(6).jfif" alt="Zayn Malik" width="150">
+    </center>
+    <hr>
+    <h2><b>Zayn Malik is a famous singer</b> - <strong>He gained prominence with One Direction</strong>.</h2>
+    <p><i>Zayn Malik's solo career</i> - His music style is <em>notable for its R&B influences</em>.</p>
+    <p><mark>His achievements include numerous awards</mark> - He has a strong fan base worldwide.</p>
+    <p><small>Born in 1993, Zayn Malik is a British singer</small> - He started his career on The X Factor.</p>
+    <p><del>Previous albums included with One Direction</del> - He launched his solo debut in 2016.</p>
+    <p><ins>Recent updates include his latest album</ins> - He continues to evolve as an artist.</p>
+    <p><sub>References to his work</sub> - Check out his discography for more details.</p>
+    <p><sup>Annotations</sup> - Further information can be found on his official website.</p>
+    <hr>
+    <h2>Lifestyle</h2>
+    <p><b>Music Career</b> - Zayn started with One Direction and then pursued a successful solo career.</p>
+    <p><i>Fashion</i> - He has been recognized for his unique style and collaborations with fashion brands.</p>
+</body>
+</html>
