@@ -1,0 +1,35 @@
+ <!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <div style="display: flex;">
+        <div style="margin-right: 20px;">
+            <iframe id="topFrame" name="topFrame" src="" width="600" height="450" frameborder="1"></iframe>
+            <div style="text-align: center;">
+                <a href="https://en.wikipedia.org/wiki/HTML" target="topFrame">
+                    <img src="./html.jpg" alt="HTML" style="width: 80px; margin: 5px;"> </a>
+                <a href="https://en.wikipedia.org/wiki/CSS" target="topFrame">
+                    <img src="./css.jpg" alt="CSS" style="width: 80px; margin: 5px;">
+                </a>
+                <a href="https://en.wikipedia.org/wiki/JavaScript" target="topFrame">
+                    <img src="./JavaScript Logo.jpg" alt="JavaScript"  style="width: 80px; margin: 5px;">
+                </a>
+            </div>
+        </div>
+
+        <div>
+            <iframe id="contentFrame" name="contentFrame" src="" width="600" height="450" frameborder="1"></iframe>
+            <div style="text-align: center;">
+                <a href="https://www.youtube.com/embed/YbsrqjtTfh8?si=Oq7Y8CVun1GTu11Z" target="contentFrame">
+                    <img src="./YouTube.jpg" alt="YouTube" style="width: 80px; margin: 5px;">
+                </a>
+                <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60957.22188201313!2d78.6393846064393!3d17.275633249495193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb0a2271893ff5%3A0xf993da1fbc177b06!2sRamoji%20Film%20City%2C%20Telangana!5e0!3m2!1sen!2sin!4v1721799343744!5m2!1sen!2sin" target="contentFrame">
+                    <img src="./map.jpg" alt="Maps" style="width: 80px; margin: 5px;">
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
