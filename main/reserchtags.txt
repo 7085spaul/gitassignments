@@ -1,0 +1,6 @@
+research topics :
+http status codes
+html 4 vs 5
+thead tbody tfoot 
+insert icons in html
+map tags
