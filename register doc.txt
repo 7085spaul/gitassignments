@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: rgb(227, 227, 19);">
+    <form action="./loginresponse.html" style="text-align: center;">
+        <label for="pass">username</label><br>
+    <input type="username" value="" id="password"><br>
+    <label for="pass">password</label><br>
+   <input type="password" name="password" id="password"><br>
+
+                <label for="pass1">Mobile Number:</label><br>
+                <input type="text" name="mobile1" id="pass1"><br>
+            
+                  <label for="pass2">gender</label><br>
+                  <input type="text" name="mobile2" id="pass2"><br>
+       
+    
+   
+
+
+
+
+
+
+
+
+
+
+        <input type="submit" name="submit" id="submit">
+    </form><br>
+    <button>
+    <a href="./form.html">Go back</a></button>
+</body>
+</html>
