@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title >Music Player</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Music Player</h1>
+
+    <!-- Song 1 -->
+    <p>
+        <img src="https://im.rediff.com/movies/2015/jul/10bahubali.jpg?w=670&h=900" alt="Song 1 Image" width="200">
+        <br>
+        <audio controls>
+            <source src="./Saahore Baahubali-SenSongsMp3.Co.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <br>
+        <button>
+        <a href="./Saahore Baahubali-SenSongsMp3.Co.mp3" download="Song1">Download Song 1</a></button>
+    </p><br>
+    
+<hr>
+
+       <td> <img src="https://m.media-amazon.com/images/M/MV5BMzI0YTYxMGYtOTczOS00YjE5LThjODQtZmQxYzMwNjBiYjgwXkEyXkFqcGdeQXVyMTExNjI5NTYy._V1_.jpg" alt="Song 2 Image" width="200">
+        <br>
+        <audio controls>
+            <source src="./01 - Arey Rey - SenSongsMp3.co.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <br>
+        <button>
+        <a href="./01 - Arey Rey - SenSongsMp3.co.mp3" download="Song2">Download Song 2</a></button>
+  
+    <hr>
+
+    
+    <p>
+        <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoXhUrT6zDOizxq0QJiFVUtsV_noIUasOFO8LHELBIDhb23PBLKnrettHAFUWEXWjxC_0kdQ" alt="" width="200">
+        <br>
+        <audio controls>
+            <source src="./Neneppudaina-SenSongsMp3.Co.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <br>
+        <button>
+        <a href="./Neneppudaina-SenSongsMp3.Co.mp3" download="Song3">Download Song 3</a></button>
+    </p>
+</body>
+</html>
